@@ -6,7 +6,7 @@ Currently contains information for elements 1-36.
 
 ---
 
-periodicTable.js includes the following information:
+periodicTable.js includes the following information in an object array:
 
 - Name (with American English spelling)
 - Symbol
